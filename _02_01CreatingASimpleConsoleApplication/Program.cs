@@ -1,19 +1,21 @@
 ﻿
 using System;
 
-namespace _01_01CreatingASimpleConsoleApplication
+namespace _02_01CreatingASimpleConsoleApplication
 {
     /// <summary>
     /// Summary description for Class1.
     /// </summary>
-    internal class Program
+    internal static class Program
     {
         public static void Main(string[] args)
         {
             //
-            // TODO: Add codee to start application here
+            // TODO: Add code to start application here
             //     static void Main(string[] args)
             Console.WriteLine("The first app in Beginning C# Programming!");
+            // change
+            
         }
     }
 }
