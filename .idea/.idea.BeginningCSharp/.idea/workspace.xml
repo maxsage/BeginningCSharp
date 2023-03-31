@@ -48,24 +48,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeginningCSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BeginningCSharp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/_01_01CreatingASimpleConsoleApplication.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/_02_01CreatingASimpleConsoleApplication.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/bin/Debug/_01_01CreatingASimpleConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/bin/Debug/_01_01CreatingASimpleConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.SuggestedBindingRedirects.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_01_01CreatingASimpleConsoleApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_01CreatingASimpleConsoleApplication/obj/Debug/_IsIncrementalBuild" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_IsIncrementalBuild" afterDir="false" />
-    </list>
+    <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="Onto Chapter 5 Examples next" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -431,6 +414,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="_05_01TypeConversionsInPractive" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_01TypeConversionsInPractive/_05_01TypeConversionsInPractive.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -443,8 +444,16 @@
       <workItem from="1679420606848" duration="639000" />
       <workItem from="1679423011288" duration="7256000" />
       <workItem from="1679546920641" duration="33336000" />
-      <workItem from="1680261863679" duration="1190000" />
+      <workItem from="1680261863679" duration="1416000" />
     </task>
+    <task id="LOCAL-00001" summary="Onto Chapter 5 Examples next">
+      <created>1680263759081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680263759081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -478,6 +487,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Onto Chapter 5 Examples next" />
+    <option name="LAST_COMMIT_MESSAGE" value="Onto Chapter 5 Examples next" />
   </component>
   <component name="WindowStateProjectService">
     <state x="681" y="362" key="#Deployment" timestamp="1680262045233">
@@ -584,10 +595,10 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state width="606" height="486" key="SwitcherDM/0.0.3440.1400@0.0.3440.1400" timestamp="1679937973297" />
-    <state x="759" y="512" key="Vcs.Push.Dialog.v2" timestamp="1679423111425">
+    <state x="759" y="512" key="Vcs.Push.Dialog.v2" timestamp="1680263770997">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="759" y="512" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1679423111425" />
+    <state x="759" y="512" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1680263770997" />
     <state x="830" y="398" width="672" height="678" key="search.everywhere.popup" timestamp="1680262119780">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>

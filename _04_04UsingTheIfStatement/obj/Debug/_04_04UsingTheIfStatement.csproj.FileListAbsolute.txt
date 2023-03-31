@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\bin\Debug\_04_04UsingTheIfStatement.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\bin\Debug\_04_04UsingTheIfStatement.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\obj\Debug\_04_04UsingTheIfStatement.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\obj\Debug\_04_04UsingTheIfStatement.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\obj\Debug\_04_04UsingTheIfStatement.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\obj\Debug\_04_04UsingTheIfStatement.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_04UsingTheIfStatement\obj\Debug\_04_04UsingTheIfStatement.pdb

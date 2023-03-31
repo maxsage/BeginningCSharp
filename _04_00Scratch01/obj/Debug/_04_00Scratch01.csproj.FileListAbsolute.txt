@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\bin\Debug\_04_00Scratch01.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\bin\Debug\_04_00Scratch01.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.pdb

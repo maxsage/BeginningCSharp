@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\bin\Debug\_04_08WhileLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\bin\Debug\_04_08WhileLoops.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.pdb

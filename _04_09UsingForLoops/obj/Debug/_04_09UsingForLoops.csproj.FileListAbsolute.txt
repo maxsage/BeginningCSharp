@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\bin\Debug\_04_09UsingForLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\bin\Debug\_04_09UsingForLoops.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.pdb

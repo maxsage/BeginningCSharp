@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\bin\Debug\_04_11InfiniteLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\bin\Debug\_04_11InfiniteLoops.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\obj\Debug\_04_11InfiniteLoops.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\obj\Debug\_04_11InfiniteLoops.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\obj\Debug\_04_11InfiniteLoops.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\obj\Debug\_04_11InfiniteLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_11InfiniteLoops\obj\Debug\_04_11InfiniteLoops.pdb

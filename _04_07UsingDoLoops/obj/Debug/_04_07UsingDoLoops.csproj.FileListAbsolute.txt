@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\bin\Debug\_04_07UsingDoLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\bin\Debug\_04_07UsingDoLoops.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.pdb

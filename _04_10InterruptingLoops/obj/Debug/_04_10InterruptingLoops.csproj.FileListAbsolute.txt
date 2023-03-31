@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\bin\Debug\_04_10InterruptingLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\bin\Debug\_04_10InterruptingLoops.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.pdb

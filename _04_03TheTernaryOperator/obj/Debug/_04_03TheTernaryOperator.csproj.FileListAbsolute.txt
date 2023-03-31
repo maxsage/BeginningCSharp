@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\bin\Debug\_04_03TheTernaryOperator.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\bin\Debug\_04_03TheTernaryOperator.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.exe
+C:\DevelopmentTutorials\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.pdb
