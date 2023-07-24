@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\bin\Debug\_05_04UsingAnArray.exe
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\bin\Debug\_05_04UsingAnArray.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.exe
+C:\DevelopmentTutorials\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.pdb

@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\bin\Debug\_05_02UsingAnEnumeration.exe
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\bin\Debug\_05_02UsingAnEnumeration.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.exe
+C:\DevelopmentTutorials\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.pdb

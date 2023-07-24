@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\bin\Debug\_09_01DefiningClasses.exe
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\bin\Debug\_09_01DefiningClasses.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.exe
+C:\DevelopmentTutorials\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.pdb

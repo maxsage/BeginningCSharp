@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\bin\Debug\_09_4ClassVsStructs.exe
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\bin\Debug\_09_4ClassVsStructs.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.exe
+C:\DevelopmentTutorials\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.pdb

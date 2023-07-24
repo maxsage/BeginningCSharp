@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\bin\Debug\_05_03UsingAStruct.exe
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\bin\Debug\_05_03UsingAStruct.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.exe
+C:\DevelopmentTutorials\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.pdb

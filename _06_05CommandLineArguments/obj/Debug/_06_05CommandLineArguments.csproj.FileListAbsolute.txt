@@ -1,0 +1,7 @@
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\bin\Debug\_06_05CommandLineArguments.exe
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\bin\Debug\_06_05CommandLineArguments.pdb
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\obj\Debug\_06_05CommandLineArguments.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\obj\Debug\_06_05CommandLineArguments.csproj.SuggestedBindingRedirects.cache
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\obj\Debug\_06_05CommandLineArguments.csproj.CoreCompileInputs.cache
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\obj\Debug\_06_05CommandLineArguments.exe
+C:\DevelopmentTutorials\BeginningCSharp\_06_05CommandLineArguments\obj\Debug\_06_05CommandLineArguments.pdb

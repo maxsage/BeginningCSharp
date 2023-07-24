@@ -1,0 +1,2 @@
+C:\DevelopmentTutorials\BeginningCSharp\_10_02CardLib\obj\Debug\_10_02CardLib.csproj.AssemblyReference.cache
+C:\DevelopmentTutorials\BeginningCSharp\_10_02CardLib\obj\Debug\_10_02CardLib.csproj.CoreCompileInputs.cache
