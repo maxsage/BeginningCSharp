@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace _02_01WindowsFormsApplications.Properties
+namespace _02_02WindowsFormsApplications.Properties
 {
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
@@ -46,7 +46,7 @@ namespace _02_01WindowsFormsApplications.Properties
                 {
                     global::System.Resources.ResourceManager temp =
                         new global::System.Resources.ResourceManager(
-                            "_02_01WindowsFormsApplications.Properties.Resources", typeof(Resources).Assembly);
+                            "_02_02WindowsFormsApplications.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
 

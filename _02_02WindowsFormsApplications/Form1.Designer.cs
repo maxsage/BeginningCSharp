@@ -1,4 +1,4 @@
-﻿namespace _02_01WindowsFormsApplications
+﻿namespace _02_02WindowsFormsApplications
 {
     partial class Form1
     {

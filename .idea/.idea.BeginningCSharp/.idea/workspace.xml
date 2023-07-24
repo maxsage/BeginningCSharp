@@ -18,6 +18,27 @@
     <projectFile>_04_09UsingForLoops/_04_09UsingForLoops.csproj</projectFile>
     <projectFile>_04_10InterruptingLoops/_04_10InterruptingLoops.csproj</projectFile>
     <projectFile>_04_11InfiniteLoops/_04_11InfiniteLoops.csproj</projectFile>
+    <projectFile>_05/_05.csproj</projectFile>
+    <projectFile>_05_01TypeConversionsInPractice/_05_01TypeConversionsInPractice.csproj</projectFile>
+    <projectFile>_05_01TypeConversionsInPractive/_05_01TypeConversionsInPractive.csproj</projectFile>
+    <projectFile>_05_02UsingAnEnumeration/_05_02UsingAnEnumeration.csproj</projectFile>
+    <projectFile>_05_03UsingAStruct/_05_03UsingAStruct.csproj</projectFile>
+    <projectFile>_05_04UsingAnArray/_05_04UsingAnArray.csproj</projectFile>
+    <projectFile>_05_05StatementAutoCompletionInVS/_05_05StatementAutoCompletionInVS.csproj</projectFile>
+    <projectFile>_06_01DefiningAndUsingABasicFunction/_06_01DefiningAndUsingABasicFunction.csproj</projectFile>
+    <projectFile>_06_02ExchangingDataWithAFunction/_06_02ExchangingDataWithAFunction.csproj</projectFile>
+    <projectFile>_06_03ExchaningDataWithAFunctionPart2/_06_03ExchaningDataWithAFunctionPart2.csproj</projectFile>
+    <projectFile>_06_04DefiningAndUsingABasicFunction/_06_04DefiningAndUsingABasicFunction.csproj</projectFile>
+    <projectFile>_06_05CommandLineArguments/_06_05CommandLineArguments.csproj</projectFile>
+    <projectFile>_06_06UsingADelegateToCallAFunction/_06_06UsingADelegateToCallAFunction.csproj</projectFile>
+    <projectFile>_07_01WritingTextToTheOutputWindow/_07_01WritingTextToTheOutputWindow.csproj</projectFile>
+    <projectFile>_07_02WritingTextToTheOutputWindow/_07_02WritingTextToTheOutputWindow.csproj</projectFile>
+    <projectFile>_08_01OOPInWindowsApplications/_08_01OOPInWindowsApplications.csproj</projectFile>
+    <projectFile>_09_01DefiningClasses/_09_01DefiningClasses.csproj</projectFile>
+    <projectFile>_09_02UsingAClassLibrary/_09_02UsingAClassLibrary.csproj</projectFile>
+    <projectFile>_09_03ProjectToUseClassLibrary/_09_03ProjectToUseClassLibrary.csproj</projectFile>
+    <projectFile>_09_4ClassVsStructs/_09_4ClassVsStructs.csproj</projectFile>
+    <projectFile>_10_01UsingFieldsMethodsAndProperties/_10_01UsingFieldsMethodsAndProperties.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -48,7 +69,118 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="Onto Chapter 5 Examples next" />
+    <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/MyInternalClass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/MyClass.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_10_02CardLib/Deck.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BeginningCSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BeginningCSharp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/App.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Resources.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Resources.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Settings.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Settings.settings" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Settings.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/_02_01WindowsFormsApplications.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/_02_02WindowsFormsApplications.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/bin/Debug/_02_01WindowsFormsApplications.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/bin/Debug/_02_01WindowsFormsApplications.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/bin/Debug/_02_01WindowsFormsApplications.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.Form1.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.Properties.Resources.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.GenerateResource.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.SuggestedBindingRedirects.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_IsIncrementalBuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/_05_01TypeConversionsInPractive.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.csproj.AssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/project.packagespec.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,8 +191,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,27 +220,33 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2NKlM92uS0gD7wEBsbGH6jtJff5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35026354" />
-    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2999521" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.CSharpInteractiveConfiguration" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RunManager" selected=".NET Project._04_11InfiniteLoops">
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;SolutionBuilderGeneralOptionsPage&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\maxsa\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\maxsa\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\maxsa\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager" selected=".NET Project._10_01UsingFieldsMethodsAndProperties">
     <configuration name="_01_01CreatingASimpleConsoleApplication" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -134,25 +273,7 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_02_01WindowsFormsApplications/_02_01WindowsFormsApplications.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="_03_01UsingSimple TypeVariables" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_03_01UsingSimple TypeVariables/_03_01UsingSimple TypeVariables.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_02_02WindowsFormsApplications/_02_02WindowsFormsApplications.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -163,9 +284,9 @@
       </method>
     </configuration>
     <configuration name="_03_01UsingSimpleTypeVariables" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -174,8 +295,8 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -414,7 +535,25 @@
         <option name="Build" />
       </method>
     </configuration>
-    <configuration name="_05_01TypeConversionsInPractive" type="DotNetProject" factoryName=".NET Project">
+    <configuration name="_05_01TypeConversionsInPractice" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_05_01TypeConversionsInPractice/bin/Debug/_05_01TypeConversionsInPractice.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05_01TypeConversionsInPractice/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_01TypeConversionsInPractice/_05_01TypeConversionsInPractice.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_05_02UsingAnEnumeration" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -422,7 +561,223 @@
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_01TypeConversionsInPractive/_05_01TypeConversionsInPractive.csproj" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_02UsingAnEnumeration/_05_02UsingAnEnumeration.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_05_03UsingAStruct" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_03UsingAStruct/_05_03UsingAStruct.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_05_04UsingAnArray" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_04UsingAnArray/_05_04UsingAnArray.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_05_05StatementAutoCompletionInVS" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/_05_05StatementAutoCompletionInVS.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_06_01DefiningAndUsingABasicFunction" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/_06_01DefiningAndUsingABasicFunction.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_06_02ExchangingDataWithAFunction" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/_06_02ExchangingDataWithAFunction.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_06_03ExchaningDataWithAFunctionPart2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/_06_03ExchaningDataWithAFunctionPart2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_06_04DefiningAndUsingABasicFunction" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/_06_04DefiningAndUsingABasicFunction.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_06_05CommandLineArguments" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_06_05CommandLineArguments/bin/Debug/_06_05CommandLineArguments.exe" />
+      <option name="PROGRAM_PARAMETERS" value="256 myFile.txt &quot;a longer argument&quot;" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_06_05CommandLineArguments/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06_05CommandLineArguments/_06_05CommandLineArguments.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_06_06UsingADelegateToCallAFunction" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/_06_06UsingADelegateToCallAFunction.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_07_01WritingTextToTheOutputWindow" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/_07_01WritingTextToTheOutputWindow.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_07_02WritingTextToTheOutputWindow" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/_07_02WritingTextToTheOutputWindow.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_08_01OOPInWindowsApplications" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_08_01OOPInWindowsApplications/_08_01OOPInWindowsApplications.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -432,6 +787,133 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="_09_01DefiningClasses" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_09_01DefiningClasses/_09_01DefiningClasses.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_09_02UsingAClassLibrary" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_09_02UsingAClassLibrary/_09_02UsingAClassLibrary.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_09_03ProjectToUseClassLibrary" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/_09_03ProjectToUseClassLibrary.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_09_4ClassVsStructs" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_09_4ClassVsStructs/_09_4ClassVsStructs.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="_10_01UsingFieldsMethodsAndProperties" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/_10_01UsingFieldsMethodsAndProperties.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project._09_01DefiningClasses" />
+      <item itemvalue=".NET Project._09_02UsingAClassLibrary" />
+      <item itemvalue=".NET Project._09_03ProjectToUseClassLibrary" />
+      <item itemvalue=".NET Project._09_4ClassVsStructs" />
+      <item itemvalue=".NET Project._10_01UsingFieldsMethodsAndProperties" />
+      <item itemvalue=".NET Project._08_01OOPInWindowsApplications" />
+      <item itemvalue=".NET Project._07_01WritingTextToTheOutputWindow" />
+      <item itemvalue=".NET Project._07_02WritingTextToTheOutputWindow" />
+      <item itemvalue=".NET Project._06_05CommandLineArguments" />
+      <item itemvalue=".NET Project._06_06UsingADelegateToCallAFunction" />
+      <item itemvalue=".NET Project._05_04UsingAnArray" />
+      <item itemvalue=".NET Project._05_05StatementAutoCompletionInVS" />
+      <item itemvalue=".NET Project._06_01DefiningAndUsingABasicFunction" />
+      <item itemvalue=".NET Project._06_02ExchangingDataWithAFunction" />
+      <item itemvalue=".NET Project._06_03ExchaningDataWithAFunctionPart2" />
+      <item itemvalue=".NET Project._06_04DefiningAndUsingABasicFunction" />
+      <item itemvalue=".NET Project._05_02UsingAnEnumeration" />
+      <item itemvalue=".NET Project._05_03UsingAStruct" />
+      <item itemvalue=".NET Project._01_01CreatingASimpleConsoleApplication" />
+      <item itemvalue=".NET Project._02_01WindowsFormsApplications" />
+      <item itemvalue=".NET Project._03_01UsingSimpleTypeVariables" />
+      <item itemvalue=".NET Project._03_02ManipulatingVariableWithMathematicalOperators" />
+      <item itemvalue=".NET Project._04_00Scratch01" />
+      <item itemvalue=".NET Project._04_01UsingTheBooleanAndBitwiseOperators" />
+      <item itemvalue=".NET Project._04_02TheGotoStatement" />
+      <item itemvalue=".NET Project._04_03TheTernaryOperator" />
+      <item itemvalue=".NET Project._04_04UsingTheIfStatement" />
+      <item itemvalue=".NET Project._04_05CheckingMoreConditionsUsingIfStatements" />
+      <item itemvalue=".NET Project._04_06UsingTheSwitchStatement" />
+      <item itemvalue=".NET Project._04_07UsingDoLoops" />
+      <item itemvalue=".NET Project._04_08WhileLoops" />
+      <item itemvalue=".NET Project._04_09UsingForLoops" />
+      <item itemvalue=".NET Project._04_10InterruptingLoops" />
+      <item itemvalue=".NET Project._04_11InfiniteLoops" />
+      <item itemvalue=".NET Project._05_01TypeConversionsInPractice" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -445,6 +927,14 @@
       <workItem from="1679423011288" duration="7256000" />
       <workItem from="1679546920641" duration="33336000" />
       <workItem from="1680261863679" duration="1416000" />
+      <workItem from="1680265208911" duration="8782000" />
+      <workItem from="1680358765339" duration="204000" />
+      <workItem from="1680359611126" duration="8759000" />
+      <workItem from="1680533249992" duration="4760000" />
+      <workItem from="1680594049581" duration="6512000" />
+      <workItem from="1681756175988" duration="596000" />
+      <workItem from="1684163245854" duration="1202000" />
+      <workItem from="1684225834995" duration="9754000" />
     </task>
     <task id="LOCAL-00001" summary="Onto Chapter 5 Examples next">
       <created>1680263759081</created>
@@ -453,12 +943,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680263759081</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Try another commit after adding">
+      <created>1680265356680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680265356680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,125 +981,11 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Onto Chapter 5 Examples next" />
-    <option name="LAST_COMMIT_MESSAGE" value="Onto Chapter 5 Examples next" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="681" y="362" key="#Deployment" timestamp="1680262045233">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="681" y="362" key="#Deployment/0.0.3440.1400@0.0.3440.1400" timestamp="1680262045233" />
-    <state x="766" y="385" key="#Options" timestamp="1680261195785">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="766" y="385" key="#Options/0.0.3440.1400@0.0.3440.1400" timestamp="1680261195785" />
-    <state x="769" y="440" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1680261708476">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="769" y="440" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1680261708476" />
-    <state width="2118" height="579" key="GridCell.Tab.0.bottom" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.0.center" timestamp="1680261748719">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748719" />
-    <state width="2118" height="579" key="GridCell.Tab.0.left" timestamp="1680261748719">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748719" />
-    <state width="2118" height="579" key="GridCell.Tab.0.right" timestamp="1680261748719">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748719" />
-    <state width="2118" height="579" key="GridCell.Tab.1.bottom" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.1.center" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.1.left" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.1.right" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.2.bottom" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.2.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.2.center" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.2.center/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.2.left" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.2.left/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.2.right" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.2.right/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.3.bottom" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.3.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.3.center" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.3.center/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.3.left" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.3.left/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.3.right" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.3.right/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.4.bottom" timestamp="1680261748721">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.4.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748721" />
-    <state width="2118" height="579" key="GridCell.Tab.4.center" timestamp="1680261748721">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.4.center/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748721" />
-    <state width="2118" height="579" key="GridCell.Tab.4.left" timestamp="1680261748720">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.4.left/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748720" />
-    <state width="2118" height="579" key="GridCell.Tab.4.right" timestamp="1680261748721">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="2118" height="579" key="GridCell.Tab.4.right/0.0.3440.1400@0.0.3440.1400" timestamp="1680261748721" />
-    <state x="537" y="609" key="Rider.ProjectTemplateDialog.Size" timestamp="1680167261460">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="537" y="609" key="Rider.ProjectTemplateDialog.Size/0.0.3440.1400@0.0.3440.1400" timestamp="1680167261460" />
-    <state x="415" y="338" key="SettingsEditor" timestamp="1680262323725">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="415" y="338" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1680262323725" />
-    <state width="606" height="486" key="SwitcherDM" timestamp="1679937973297">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state width="606" height="486" key="SwitcherDM/0.0.3440.1400@0.0.3440.1400" timestamp="1679937973297" />
-    <state x="759" y="512" key="Vcs.Push.Dialog.v2" timestamp="1680263770997">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="759" y="512" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1680263770997" />
-    <state x="830" y="398" width="672" height="678" key="search.everywhere.popup" timestamp="1680262119780">
-      <screen x="0" y="0" width="3440" height="1400" />
-    </state>
-    <state x="830" y="398" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1680262119780" />
+    <MESSAGE value="Try another commit after adding" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try another commit after adding" />
   </component>
 </project>
