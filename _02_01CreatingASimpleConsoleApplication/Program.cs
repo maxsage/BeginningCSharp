@@ -15,7 +15,7 @@ namespace _02_01CreatingASimpleConsoleApplication
             //     static void Main(string[] args)
             Console.WriteLine("The first app in Beginning C# Programming!");
             // change
-            
+
         }
     }
 }

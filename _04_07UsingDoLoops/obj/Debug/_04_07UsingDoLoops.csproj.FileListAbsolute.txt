@@ -5,3 +5,9 @@ C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07Using
 C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.csproj.CoreCompileInputs.cache
 C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.exe
 C:\DevelopmentTutorials\BeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_07UsingDoLoops\bin\Debug\_04_07UsingDoLoops.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_07UsingDoLoops\bin\Debug\_04_07UsingDoLoops.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.csproj.AssemblyReference.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.csproj.CoreCompileInputs.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_07UsingDoLoops\obj\Debug\_04_07UsingDoLoops.pdb

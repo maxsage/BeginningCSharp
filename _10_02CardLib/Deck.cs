@@ -18,7 +18,7 @@ namespace _10_02CardLib
             }
         }
 
-        public Card GetCard(int CardNum)
+        public Card GetCard(int cardNum)
         {
             if (cardNum >= 0 && cardNum <= 51)
                 return cards[cardNum];

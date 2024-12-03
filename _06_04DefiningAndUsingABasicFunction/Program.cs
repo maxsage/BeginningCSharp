@@ -7,7 +7,7 @@ namespace _06_04DefiningAndUsingABasicFunction
         private static string myString;
         static void Write()
         {
-            string myString = "Strind defined in Write()";
+            string myString = "String defined in Write()";
             Console.WriteLine("Now in Write()");
             Console.WriteLine("myString = {0}", myString);
             Console.WriteLine("Global myString = {0}", Program.myString);

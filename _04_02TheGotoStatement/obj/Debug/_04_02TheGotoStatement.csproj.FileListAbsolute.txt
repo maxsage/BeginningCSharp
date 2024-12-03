@@ -5,3 +5,9 @@ C:\DevelopmentTutorials\BeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02T
 C:\DevelopmentTutorials\BeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.csproj.CoreCompileInputs.cache
 C:\DevelopmentTutorials\BeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.exe
 C:\DevelopmentTutorials\BeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_02TheGotoStatement\bin\Debug\_04_02TheGotoStatement.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_02TheGotoStatement\bin\Debug\_04_02TheGotoStatement.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.csproj.AssemblyReference.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.csproj.CoreCompileInputs.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_04_02TheGotoStatement\obj\Debug\_04_02TheGotoStatement.pdb

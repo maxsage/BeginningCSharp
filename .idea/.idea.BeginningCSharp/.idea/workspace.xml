@@ -69,117 +69,264 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/MyInternalClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/MyClass.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_10_02CardLib/Deck.cs" afterDir="false" />
+    <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="And again after adding files">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeginningCSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BeginningCSharp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/App.config" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/App.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Resources.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Resources.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Resources.resx" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Resources.resx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Settings.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Settings.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/Properties/Settings.settings" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/Settings.settings" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/_02_01WindowsFormsApplications.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/_02_02WindowsFormsApplications.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/bin/Debug/_02_01WindowsFormsApplications.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/bin/Debug/_02_01WindowsFormsApplications.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/bin/Debug/_02_01WindowsFormsApplications.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferences.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferences.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.Form1.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.Properties.Resources.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.GenerateResource.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.csproj.SuggestedBindingRedirects.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_02_01WindowsFormsApplications.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_01WindowsFormsApplications/obj/Debug/_IsIncrementalBuild" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/obj/Debug/_02_01CreatingASimpleConsoleApplication.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/bin/Debug/_02_02WindowsFormsApplications.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/bin/Debug/_02_02WindowsFormsApplications.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/bin/Debug/_02_02WindowsFormsApplications.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/bin/Debug/_02_02WindowsFormsApplications.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_02_02WindowsFormsApplications/obj/Debug/_02_02WindowsFormsApplications.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/bin/Debug/_03_01UsingSimpleTypeVariables.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/obj/Debug/_03_01UsingSimpleTypeVariables.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/bin/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_03_02ManipulatingVariableWithMathematicalOperators/obj/Debug/_03_02ManipulatingVariableWithMathematicalOperators.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/bin/Debug/_04_00Scratch01.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_00Scratch01/obj/Debug/_04_00Scratch01.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/bin/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_01UsingTheBooleanAndBitwiseOperators/obj/Debug/_04_01UsingTheBooleanAndBitwiseOperators.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/bin/Debug/_04_02TheGotoStatement.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_02TheGotoStatement/obj/Debug/_04_02TheGotoStatement.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/bin/Debug/_04_03TheTernaryOperator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_03TheTernaryOperator/obj/Debug/_04_03TheTernaryOperator.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/bin/Debug/_04_04UsingTheIfStatement.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_04UsingTheIfStatement/obj/Debug/_04_04UsingTheIfStatement.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/bin/Debug/_04_05CheckingMoreConditionsUsingIfStatements.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/bin/Debug/_04_05CheckingMoreConditionsUsingIfStatements.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/bin/Debug/_04_05CheckingMoreConditionsUsingIfStatements.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/bin/Debug/_04_05CheckingMoreConditionsUsingIfStatements.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_05CheckingMoreConditionsUsingIfStatements/obj/Debug/_04_05CheckingMoreConditionsUsingIfStatements.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/bin/Debug/_04_06UsingTheSwitchStatement.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_06UsingTheSwitchStatement/obj/Debug/_04_06UsingTheSwitchStatement.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/bin/Debug/_04_07UsingDoLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_07UsingDoLoops/obj/Debug/_04_07UsingDoLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/bin/Debug/_04_08WhileLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_08WhileLoops/obj/Debug/_04_08WhileLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/bin/Debug/_04_09UsingForLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_09UsingForLoops/obj/Debug/_04_09UsingForLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/bin/Debug/_04_10InterruptingLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_10InterruptingLoops/obj/Debug/_04_10InterruptingLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/bin/Debug/_04_11InfiniteLoops.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_04_11InfiniteLoops/obj/Debug/_04_11InfiniteLoops.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/_05_01TypeConversionsInPractive.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.GlobalUsings.g.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/Debug/net6.0/_05_01TypeConversionsInPractive.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractive/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/_05_01TypeConversionsInPractice.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/_05_01TypeConversionsInPractice.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/bin/Debug/_05_01TypeConversionsInPractice.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/bin/Debug/_05_01TypeConversionsInPractice.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/bin/Debug/_05_01TypeConversionsInPractice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/bin/Debug/_05_01TypeConversionsInPractice.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/_05_01TypeConversionsInPractice.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/bin/Debug/_05_02UsingAnEnumeration.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/bin/Debug/_05_02UsingAnEnumeration.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/bin/Debug/_05_02UsingAnEnumeration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/bin/Debug/_05_02UsingAnEnumeration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_02UsingAnEnumeration/obj/Debug/_05_02UsingAnEnumeration.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/bin/Debug/_05_03UsingAStruct.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/bin/Debug/_05_03UsingAStruct.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/bin/Debug/_05_03UsingAStruct.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/bin/Debug/_05_03UsingAStruct.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_03UsingAStruct/obj/Debug/_05_03UsingAStruct.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/bin/Debug/_05_04UsingAnArray.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/bin/Debug/_05_04UsingAnArray.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/bin/Debug/_05_04UsingAnArray.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/bin/Debug/_05_04UsingAnArray.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_04UsingAnArray/obj/Debug/_05_04UsingAnArray.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/bin/Debug/_05_05StatementAutoCompletionInVS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/bin/Debug/_05_05StatementAutoCompletionInVS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/bin/Debug/_05_05StatementAutoCompletionInVS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/bin/Debug/_05_05StatementAutoCompletionInVS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_05_05StatementAutoCompletionInVS/obj/Debug/_05_05StatementAutoCompletionInVS.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/bin/Debug/_06_01DefiningAndUsingABasicFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/bin/Debug/_06_01DefiningAndUsingABasicFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/bin/Debug/_06_01DefiningAndUsingABasicFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/bin/Debug/_06_01DefiningAndUsingABasicFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_01DefiningAndUsingABasicFunction/obj/Debug/_06_01DefiningAndUsingABasicFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/bin/Debug/_06_02ExchangingDataWithAFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/bin/Debug/_06_02ExchangingDataWithAFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/bin/Debug/_06_02ExchangingDataWithAFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/bin/Debug/_06_02ExchangingDataWithAFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_02ExchangingDataWithAFunction/obj/Debug/_06_02ExchangingDataWithAFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/bin/Debug/_06_03ExchaningDataWithAFunctionPart2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/bin/Debug/_06_03ExchaningDataWithAFunctionPart2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/bin/Debug/_06_03ExchaningDataWithAFunctionPart2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/bin/Debug/_06_03ExchaningDataWithAFunctionPart2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_03ExchaningDataWithAFunctionPart2/obj/Debug/_06_03ExchaningDataWithAFunctionPart2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/bin/Debug/_06_04DefiningAndUsingABasicFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/bin/Debug/_06_04DefiningAndUsingABasicFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/bin/Debug/_06_04DefiningAndUsingABasicFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/bin/Debug/_06_04DefiningAndUsingABasicFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_04DefiningAndUsingABasicFunction/obj/Debug/_06_04DefiningAndUsingABasicFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/bin/Debug/_06_05CommandLineArguments.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/bin/Debug/_06_05CommandLineArguments.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/bin/Debug/_06_05CommandLineArguments.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/bin/Debug/_06_05CommandLineArguments.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_05CommandLineArguments/obj/Debug/_06_05CommandLineArguments.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/bin/Debug/_06_06UsingADelegateToCallAFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/bin/Debug/_06_06UsingADelegateToCallAFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/bin/Debug/_06_06UsingADelegateToCallAFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/bin/Debug/_06_06UsingADelegateToCallAFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_06_06UsingADelegateToCallAFunction/obj/Debug/_06_06UsingADelegateToCallAFunction.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/bin/Debug/_07_01WritingTextToTheOutputWindow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/bin/Debug/_07_01WritingTextToTheOutputWindow.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/bin/Debug/_07_01WritingTextToTheOutputWindow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/bin/Debug/_07_01WritingTextToTheOutputWindow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/obj/Debug/_07_01WritingTextToTheOutputWindow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/bin/Debug/_07_02WritingTextToTheOutputWindow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/bin/Debug/_07_02WritingTextToTheOutputWindow.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/bin/Debug/_07_02WritingTextToTheOutputWindow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/bin/Debug/_07_02WritingTextToTheOutputWindow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_07_02WritingTextToTheOutputWindow/obj/Debug/_07_02WritingTextToTheOutputWindow.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/bin/Debug/_08_01OOPInWindowsApplications.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/bin/Debug/_08_01OOPInWindowsApplications.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/bin/Debug/_08_01OOPInWindowsApplications.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/bin/Debug/_08_01OOPInWindowsApplications.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_08_01OOPInWindowsApplications/obj/Debug/_08_01OOPInWindowsApplications.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/bin/Debug/_09_01DefiningClasses.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/bin/Debug/_09_01DefiningClasses.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/bin/Debug/_09_01DefiningClasses.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/bin/Debug/_09_01DefiningClasses.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_01DefiningClasses/obj/Debug/_09_01DefiningClasses.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/bin/Debug/_09_02UsingAClassLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/bin/Debug/_09_02UsingAClassLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/bin/Debug/_09_02UsingAClassLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/bin/Debug/_09_02UsingAClassLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_02UsingAClassLibrary/obj/Debug/_09_02UsingAClassLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_02UsingAClassLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_02UsingAClassLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_02UsingAClassLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_02UsingAClassLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_03ProjectToUseClassLibrary.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_03ProjectToUseClassLibrary.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_03ProjectToUseClassLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/bin/Debug/_09_03ProjectToUseClassLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_03ProjectToUseClassLibrary/obj/Debug/_09_03ProjectToUseClassLibrary.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/bin/Debug/_09_4ClassVsStructs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/bin/Debug/_09_4ClassVsStructs.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/bin/Debug/_09_4ClassVsStructs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/bin/Debug/_09_4ClassVsStructs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_09_4ClassVsStructs/obj/Debug/_09_4ClassVsStructs.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/bin/Debug/_10_01UsingFieldsMethodsAndProperties.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/bin/Debug/_10_01UsingFieldsMethodsAndProperties.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/bin/Debug/_10_01UsingFieldsMethodsAndProperties.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/bin/Debug/_10_01UsingFieldsMethodsAndProperties.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_10_01UsingFieldsMethodsAndProperties/obj/Debug/_10_01UsingFieldsMethodsAndProperties.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_02CardLib/obj/Debug/_10_02CardLib.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_10_02CardLib/obj/Debug/_10_02CardLib.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_02CardLib/obj/Debug/_10_02CardLib.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_10_02CardLib/obj/Debug/_10_02CardLib.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_10_02CardLib/obj/Debug/_10_02CardLib.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_10_02CardLib/obj/Debug/_10_02CardLib.csproj.FileListAbsolute.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,10 +337,31 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_02_02WindowsFormsApplications/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/_03_01UsingSimpleTypeVariables/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/_05_01TypeConversionsInPractice/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -230,6 +398,8 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -246,11 +416,11 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project._10_01UsingFieldsMethodsAndProperties">
-    <configuration name="_01_01CreatingASimpleConsoleApplication" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+  <component name="RunManager" selected=".NET Project._07_01WritingTextToTheOutputWindow">
+    <configuration name="_02_01CreatingASimpleConsoleApplication" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug/_02_01CreatingASimpleConsoleApplication.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_01CreatingASimpleConsoleApplication/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -260,7 +430,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.8" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -896,7 +1066,7 @@
       <item itemvalue=".NET Project._06_04DefiningAndUsingABasicFunction" />
       <item itemvalue=".NET Project._05_02UsingAnEnumeration" />
       <item itemvalue=".NET Project._05_03UsingAStruct" />
-      <item itemvalue=".NET Project._01_01CreatingASimpleConsoleApplication" />
+      <item itemvalue=".NET Project._02_01CreatingASimpleConsoleApplication" />
       <item itemvalue=".NET Project._02_01WindowsFormsApplications" />
       <item itemvalue=".NET Project._03_01UsingSimpleTypeVariables" />
       <item itemvalue=".NET Project._03_02ManipulatingVariableWithMathematicalOperators" />
@@ -935,6 +1105,11 @@
       <workItem from="1681756175988" duration="596000" />
       <workItem from="1684163245854" duration="1202000" />
       <workItem from="1684225834995" duration="9754000" />
+      <workItem from="1690227363176" duration="963000" />
+      <workItem from="1731864624764" duration="1485000" />
+      <workItem from="1731925115551" duration="2829000" />
+      <workItem from="1732550815758" duration="6281000" />
+      <workItem from="1733157699462" duration="9042000" />
     </task>
     <task id="LOCAL-00001" summary="Onto Chapter 5 Examples next">
       <created>1680263759081</created>
@@ -950,7 +1125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680265356680</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commiting from laptop after long break">
+      <created>1690227383793</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690227383793</updated>
+    </task>
+    <task id="LOCAL-00004" summary="And again after adding files">
+      <created>1690227542914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690227542914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -986,6 +1175,35 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Onto Chapter 5 Examples next" />
     <MESSAGE value="Try another commit after adding" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try another commit after adding" />
+    <MESSAGE value="Commiting from laptop after long break" />
+    <MESSAGE value="And again after adding files" />
+    <option name="LAST_COMMIT_MESSAGE" value="And again after adding files" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/_07_01WritingTextToTheOutputWindow/Program.cs</url>
+          <line>34</line>
+          <properties documentPath="D:\DevelopmentTutorials\BookBeginningCSharp\_07_01WritingTextToTheOutputWindow\Program.cs" initialLine="33" containingFunctionPresentation="method 'Maxima'" hitCountFilterEnabled="true" hitCount="2" hitCountMode="Greater than">
+            <startOffsets>
+              <option value="1195" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1216" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog>
+          <selected-grouping-rules>
+            <grouping-rule id="RiderExceptionGroupByNamespaceRule" />
+            <grouping-rule id="RiderExceptionGroupBySourceRule" />
+          </selected-grouping-rules>
+        </breakpoints-dialog>
+      </breakpoints-dialog>
+    </breakpoint-manager>
   </component>
 </project>

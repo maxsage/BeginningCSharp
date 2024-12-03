@@ -31,6 +31,7 @@ namespace _07_01WritingTextToTheOutputWindow
                 Debug.WriteLine("Now looking at element at index " + i + ".");
                 if (integers[i] > maxVal)
                 {
+                    // Added a breakpoint for fun
                     maxVal = integers[i];
                     count = 1;
                     indices = new int[1];
