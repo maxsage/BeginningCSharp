@@ -72,6 +72,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_01UsingFieldsMethodsAnd
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_02CardLib", "_10_02CardLib\_10_02CardLib.csproj", "{B3547B6B-E8D0-4354-8888-87C42205BBB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_10_03CardLib", "_10_03CardLib\_10_03CardLib.csproj", "{46F71B40-EC52-470C-BBAB-6D03A5BB0753}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,5 +224,9 @@ Global
 		{B3547B6B-E8D0-4354-8888-87C42205BBB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3547B6B-E8D0-4354-8888-87C42205BBB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3547B6B-E8D0-4354-8888-87C42205BBB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46F71B40-EC52-470C-BBAB-6D03A5BB0753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F71B40-EC52-470C-BBAB-6D03A5BB0753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F71B40-EC52-470C-BBAB-6D03A5BB0753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F71B40-EC52-470C-BBAB-6D03A5BB0753}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

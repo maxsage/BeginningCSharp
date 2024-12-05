@@ -4,7 +4,7 @@ using Microsoft.Win32.SafeHandles;
 
 namespace _07_02WritingTextToTheOutputWindow
 {
-    internal class Program
+    internal class                                                                                                            Program
     {
         private static string[] eTypes = { "none", "simple", "index", "nested index" };
         
@@ -28,7 +28,7 @@ namespace _07_02WritingTextToTheOutputWindow
                 }
                 catch
                 {
-                    Console.WriteLine("Main() general catch block reached.");
+                    Console.WriteLine("Main() general catch block reached.");           
                 }
                 finally
                 {
@@ -37,7 +37,7 @@ namespace _07_02WritingTextToTheOutputWindow
                 Console.WriteLine();
             }
         }
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
         static void ThrowException(string exceptionType)
         {
             Console.WriteLine("ThrowException(\"{0}\") reached.", exceptionType);          // Line 43

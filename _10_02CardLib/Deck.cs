@@ -13,7 +13,7 @@ namespace _10_02CardLib
             {
                 for (int rankVal = 1; rankVal < 14; rankVal++)
                 {
-                    cards[suitVal + 13 + rankVal - 1] = new Card((Suit)suitVal, (Rank)rankVal);
+                    cards[suitVal * 13 + rankVal - 1] = new Card((Suit)suitVal, (Rank)rankVal);
                 }
             }
         }
