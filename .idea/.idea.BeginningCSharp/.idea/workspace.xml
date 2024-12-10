@@ -85,22 +85,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_11_01ArraysVsMoreAdvancedCollections/Animal.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11_02ImplementingAnAnimalsCollection/Animal.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11_03UpgradedCardLib/Card.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11_03UpgradedCardLib/Cards.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11_03UpgradedCardLib/Deck.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11_05UsingTheIsOperator/Chcker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_11_07UpgradedCardLib/Exception.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_12_02DefiningEvents/Connection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_12_02DefiningEvents/Display.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_12_03UsingAMultiPurposeEventHandler/MessageArrivedEventArgs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_12_04UpgradedCardLib/Game.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_12_04UpgradedCardLib/Player.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_13_01ButtonTest/_13_01ButtonTest.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BeginningCSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BeginningCSharp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_10_03CardLib/obj/Debug/_10_03CardLib.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/_10_03CardLib/obj/Debug/_10_03CardLib.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +166,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.ButtonTest">
+  <component name="RunManager" selected=".NET Project._13_02TextBoxTest">
     <configuration name="ButtonTest" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -1162,7 +1147,8 @@
       <workItem from="1733157699462" duration="15761000" />
       <workItem from="1733306211084" duration="7477000" />
       <workItem from="1733403270109" duration="5732000" />
-      <workItem from="1733433501457" duration="41285000" />
+      <workItem from="1733433501457" duration="41363000" />
+      <workItem from="1733867699047" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="Onto Chapter 5 Examples next">
       <created>1680263759081</created>
@@ -1213,7 +1199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1733415667682</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Working on Chapter 13 TextBox example.">
+      <created>1733780185152</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733780185152</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1254,7 +1247,8 @@
     <MESSAGE value="First time I have committed in a long time!" />
     <MESSAGE value="Finished chapter 10. Fixed bug with CardLib" />
     <MESSAGE value="Finished chapter 10. Fixed CardLib bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished chapter 10. Fixed CardLib bug" />
+    <MESSAGE value="Working on Chapter 13 TextBox example." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on Chapter 13 TextBox example." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
