@@ -1,0 +1,6 @@
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_05UsingTheIsOperator\obj\Debug\_11_05UsingTheIsOperator.csproj.AssemblyReference.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_05UsingTheIsOperator\obj\Debug\_11_05UsingTheIsOperator.csproj.CoreCompileInputs.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_05UsingTheIsOperator\bin\Debug\_11_05UsingTheIsOperator.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_05UsingTheIsOperator\bin\Debug\_11_05UsingTheIsOperator.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_05UsingTheIsOperator\obj\Debug\_11_05UsingTheIsOperator.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_05UsingTheIsOperator\obj\Debug\_11_05UsingTheIsOperator.pdb

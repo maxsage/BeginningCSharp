@@ -1,0 +1,6 @@
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_06UpgradedCardLib\bin\Debug\_11_06UpgradedCardLib.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_06UpgradedCardLib\bin\Debug\_11_06UpgradedCardLib.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_06UpgradedCardLib\obj\Debug\_11_06UpgradedCardLib.csproj.AssemblyReference.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_06UpgradedCardLib\obj\Debug\_11_06UpgradedCardLib.csproj.CoreCompileInputs.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_06UpgradedCardLib\obj\Debug\_11_06UpgradedCardLib.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_11_06UpgradedCardLib\obj\Debug\_11_06UpgradedCardLib.pdb

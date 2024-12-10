@@ -1,0 +1,10 @@
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\bin\Debug\_13_01ButtonTest.exe.config
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\bin\Debug\_13_01ButtonTest.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\bin\Debug\_13_01ButtonTest.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.csproj.AssemblyReference.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.Properties.Resources.resources
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.csproj.GenerateResource.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.csproj.CoreCompileInputs.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_01ButtonTest\obj\Debug\_13_01ButtonTest.Form1.resources
