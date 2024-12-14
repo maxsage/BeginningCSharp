@@ -1,0 +1,10 @@
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\bin\Debug\_13_04RichTextBox.exe.config
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\bin\Debug\_13_04RichTextBox.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\bin\Debug\_13_04RichTextBox.pdb
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.csproj.AssemblyReference.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.Form1.resources
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.Properties.Resources.resources
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.csproj.GenerateResource.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.csproj.CoreCompileInputs.cache
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.exe
+D:\DevelopmentTutorials\BookBeginningCSharp\_13_04RichTextBox\obj\Debug\_13_04RichTextBox.pdb

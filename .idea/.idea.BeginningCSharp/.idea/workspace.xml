@@ -86,6 +86,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2fbece78-2e0c-487d-a7c2-001313d7bd59" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BeginningCSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_13_02TextBoxTest/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/_13_02TextBoxTest/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_13_02TextBoxTest/bin/Debug/_13_02TextBoxTest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_13_02TextBoxTest/bin/Debug/_13_02TextBoxTest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_13_02TextBoxTest/bin/Debug/_13_02TextBoxTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_13_02TextBoxTest/bin/Debug/_13_02TextBoxTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_13_02TextBoxTest/obj/Debug/_13_02TextBoxTest.exe" beforeDir="false" afterPath="$PROJECT_DIR$/_13_02TextBoxTest/obj/Debug/_13_02TextBoxTest.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_13_02TextBoxTest/obj/Debug/_13_02TextBoxTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/_13_02TextBoxTest/obj/Debug/_13_02TextBoxTest.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1148,7 +1153,7 @@
       <workItem from="1733306211084" duration="7477000" />
       <workItem from="1733403270109" duration="5732000" />
       <workItem from="1733433501457" duration="41363000" />
-      <workItem from="1733867699047" duration="954000" />
+      <workItem from="1733867699047" duration="2029000" />
     </task>
     <task id="LOCAL-00001" summary="Onto Chapter 5 Examples next">
       <created>1680263759081</created>
@@ -1206,7 +1211,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733780185152</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Working through TextBox example in Chapter 13">
+      <created>1733869105483</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733869105483</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Working through Textbox example in Chapter 13">
+      <created>1733869164858</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1733869164858</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1248,7 +1267,9 @@
     <MESSAGE value="Finished chapter 10. Fixed bug with CardLib" />
     <MESSAGE value="Finished chapter 10. Fixed CardLib bug" />
     <MESSAGE value="Working on Chapter 13 TextBox example." />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on Chapter 13 TextBox example." />
+    <MESSAGE value="Working through TextBox example in Chapter 13" />
+    <MESSAGE value="Working through Textbox example in Chapter 13" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working through Textbox example in Chapter 13" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_01CreatingASimpleConsoleApplication", "_02_01CreatingASimpleConsoleApplication\_02_01CreatingASimpleConsoleApplication.csproj", "{E309A901-C216-49E3-A7A7-DA318C44D944}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_02WindowsFormsApplications", "_02_02WindowsFormsApplications\_02_02WindowsFormsApplications.csproj", "{A434DF0B-5E6A-4060-AE1E-3B8FCB311E97}"
@@ -99,6 +102,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_01ButtonTest", "_13_01ButtonTest\_13_01ButtonTest.csproj", "{FB3FEEE8-E852-4066-BB1D-5F66AE03E247}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_02TextBoxTest", "_13_02TextBoxTest\_13_02TextBoxTest.csproj", "{C6D561FA-A3AB-44F5-8D97-E9B3E03755A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_03RadioButtonAndCheckBoxExample", "_13_03RadioButtonAndCheckBoxExample\_13_03RadioButtonAndCheckBoxExample.csproj", "{98007471-1FC9-41A2-A548-2F32F1B57E8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_04RichTextBox", "_13_04RichTextBox\_13_04RichTextBox.csproj", "{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -306,5 +313,19 @@ Global
 		{C6D561FA-A3AB-44F5-8D97-E9B3E03755A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6D561FA-A3AB-44F5-8D97-E9B3E03755A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6D561FA-A3AB-44F5-8D97-E9B3E03755A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98007471-1FC9-41A2-A548-2F32F1B57E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98007471-1FC9-41A2-A548-2F32F1B57E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98007471-1FC9-41A2-A548-2F32F1B57E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98007471-1FC9-41A2-A548-2F32F1B57E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A321A9-793D-4505-A58E-EF5E76E9C430}
 	EndGlobalSection
 EndGlobal

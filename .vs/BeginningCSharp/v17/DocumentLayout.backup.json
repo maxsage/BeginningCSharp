@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}|_13_04RichTextBox\\_13_04RichTextBox.csproj|d:\\developmenttutorials\\bookbeginningcsharp\\_13_04richtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}|_13_04RichTextBox\\_13_04RichTextBox.csproj|solutionrelative:_13_04richtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}|_13_04RichTextBox\\_13_04RichTextBox.csproj|d:\\developmenttutorials\\bookbeginningcsharp\\_13_04richtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}|_13_04RichTextBox\\_13_04RichTextBox.csproj|solutionrelative:_13_04richtextbox\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|d:\\developmenttutorials\\bookbeginningcsharp\\_13_03radiobuttonandcheckboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|solutionrelative:_13_03radiobuttonandcheckboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|d:\\developmenttutorials\\bookbeginningcsharp\\_13_03radiobuttonandcheckboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|solutionrelative:_13_03radiobuttonandcheckboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|d:\\developmenttutorials\\bookbeginningcsharp\\_13_03radiobuttonandcheckboxexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|solutionrelative:_13_03radiobuttonandcheckboxexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|d:\\developmenttutorials\\bookbeginningcsharp\\_13_03radiobuttonandcheckboxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98007471-1FC9-41A2-A548-2F32F1B57E8F}|_13_03RadioButtonAndCheckBoxExample\\_13_03RadioButtonAndCheckBoxExample.csproj|solutionrelative:_13_03radiobuttonandcheckboxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Program.cs",
+              "RelativeDocumentMoniker": "_13_03RadioButtonAndCheckBoxExample\\Program.cs",
+              "ToolTip": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Program.cs",
+              "RelativeToolTip": "_13_03RadioButtonAndCheckBoxExample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:33:11.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_04RichTextBox\\Form1.cs",
+              "RelativeDocumentMoniker": "_13_04RichTextBox\\Form1.cs",
+              "ToolTip": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_04RichTextBox\\Form1.cs [Design]",
+              "RelativeToolTip": "_13_04RichTextBox\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:35:46.989Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_04RichTextBox\\Form1.cs",
+              "RelativeDocumentMoniker": "_13_04RichTextBox\\Form1.cs",
+              "ToolTip": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_04RichTextBox\\Form1.cs",
+              "RelativeToolTip": "_13_04RichTextBox\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:45:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Form1.cs",
+              "RelativeDocumentMoniker": "_13_03RadioButtonAndCheckBoxExample\\Form1.cs",
+              "ToolTip": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Form1.cs",
+              "RelativeToolTip": "_13_03RadioButtonAndCheckBoxExample\\Form1.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAWwHQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:14:35.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Form1.cs",
+              "RelativeDocumentMoniker": "_13_03RadioButtonAndCheckBoxExample\\Form1.cs",
+              "ToolTip": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Form1.cs [Design]",
+              "RelativeToolTip": "_13_03RadioButtonAndCheckBoxExample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T18:04:32.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "_13_03RadioButtonAndCheckBoxExample\\Form1.Designer.cs",
+              "ToolTip": "D:\\DevelopmentTutorials\\BookBeginningCSharp\\_13_03RadioButtonAndCheckBoxExample\\Form1.Designer.cs",
+              "RelativeToolTip": "_13_03RadioButtonAndCheckBoxExample\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T11:32:58.051Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
