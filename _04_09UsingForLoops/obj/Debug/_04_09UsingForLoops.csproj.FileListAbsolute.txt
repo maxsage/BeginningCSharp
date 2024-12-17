@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.pdb
+C:\Development\BeginningCSharp\_04_09UsingForLoops\bin\Debug\_04_09UsingForLoops.exe
+C:\Development\BeginningCSharp\_04_09UsingForLoops\bin\Debug\_04_09UsingForLoops.pdb
+C:\Development\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.exe
+C:\Development\BeginningCSharp\_04_09UsingForLoops\obj\Debug\_04_09UsingForLoops.pdb

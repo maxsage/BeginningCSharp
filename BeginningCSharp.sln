@@ -107,6 +107,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_03RadioButtonAndCheckBo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_04RichTextBox", "_13_04RichTextBox\_13_04RichTextBox.csproj", "{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_05ListBoxExample", "ListBoxExample\_13_05ListBoxExample.csproj", "{A96B0EE9-5028-4418-8486-8E6F05F7DA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_13_06ComboBoxExample", "_13_06ComboBoxExample\_13_06ComboBoxExample.csproj", "{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +325,14 @@ Global
 		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFDDEA4B-41FB-4BFD-824B-90C3420A6B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96B0EE9-5028-4418-8486-8E6F05F7DA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96B0EE9-5028-4418-8486-8E6F05F7DA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96B0EE9-5028-4418-8486-8E6F05F7DA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96B0EE9-5028-4418-8486-8E6F05F7DA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

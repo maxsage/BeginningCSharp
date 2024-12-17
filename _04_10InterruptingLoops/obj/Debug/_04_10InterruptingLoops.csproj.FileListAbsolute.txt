@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_04_10InterruptingLoops\obj\Debug\_0
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.pdb
+C:\Development\BeginningCSharp\_04_10InterruptingLoops\bin\Debug\_04_10InterruptingLoops.exe
+C:\Development\BeginningCSharp\_04_10InterruptingLoops\bin\Debug\_04_10InterruptingLoops.pdb
+C:\Development\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.exe
+C:\Development\BeginningCSharp\_04_10InterruptingLoops\obj\Debug\_04_10InterruptingLoops.pdb

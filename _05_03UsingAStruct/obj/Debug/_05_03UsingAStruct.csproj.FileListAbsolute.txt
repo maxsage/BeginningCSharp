@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03U
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.pdb
+C:\Development\BeginningCSharp\_05_03UsingAStruct\bin\Debug\_05_03UsingAStruct.exe
+C:\Development\BeginningCSharp\_05_03UsingAStruct\bin\Debug\_05_03UsingAStruct.pdb
+C:\Development\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.exe
+C:\Development\BeginningCSharp\_05_03UsingAStruct\obj\Debug\_05_03UsingAStruct.pdb

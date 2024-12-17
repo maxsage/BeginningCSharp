@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4C
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.pdb
+C:\Development\BeginningCSharp\_09_4ClassVsStructs\bin\Debug\_09_4ClassVsStructs.exe
+C:\Development\BeginningCSharp\_09_4ClassVsStructs\bin\Debug\_09_4ClassVsStructs.pdb
+C:\Development\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.exe
+C:\Development\BeginningCSharp\_09_4ClassVsStructs\obj\Debug\_09_4ClassVsStructs.pdb

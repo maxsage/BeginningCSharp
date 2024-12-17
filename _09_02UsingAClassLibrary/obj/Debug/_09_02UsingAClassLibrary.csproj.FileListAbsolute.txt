@@ -10,3 +10,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.dll
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.pdb
+C:\Development\BeginningCSharp\_09_02UsingAClassLibrary\bin\Debug\_09_02UsingAClassLibrary.dll
+C:\Development\BeginningCSharp\_09_02UsingAClassLibrary\bin\Debug\_09_02UsingAClassLibrary.pdb
+C:\Development\BeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.dll
+C:\Development\BeginningCSharp\_09_02UsingAClassLibrary\obj\Debug\_09_02UsingAClassLibrary.pdb

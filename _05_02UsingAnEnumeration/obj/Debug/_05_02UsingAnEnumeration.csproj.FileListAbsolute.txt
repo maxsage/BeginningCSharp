@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.pdb
+C:\Development\BeginningCSharp\_05_02UsingAnEnumeration\bin\Debug\_05_02UsingAnEnumeration.exe
+C:\Development\BeginningCSharp\_05_02UsingAnEnumeration\bin\Debug\_05_02UsingAnEnumeration.pdb
+C:\Development\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.exe
+C:\Development\BeginningCSharp\_05_02UsingAnEnumeration\obj\Debug\_05_02UsingAnEnumeration.pdb

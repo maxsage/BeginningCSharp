@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08Whi
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.pdb
+C:\Development\BeginningCSharp\_04_08WhileLoops\bin\Debug\_04_08WhileLoops.exe
+C:\Development\BeginningCSharp\_04_08WhileLoops\bin\Debug\_04_08WhileLoops.pdb
+C:\Development\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.exe
+C:\Development\BeginningCSharp\_04_08WhileLoops\obj\Debug\_04_08WhileLoops.pdb

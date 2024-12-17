@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.pdb
+C:\Development\BeginningCSharp\_04_03TheTernaryOperator\bin\Debug\_04_03TheTernaryOperator.exe
+C:\Development\BeginningCSharp\_04_03TheTernaryOperator\bin\Debug\_04_03TheTernaryOperator.pdb
+C:\Development\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.exe
+C:\Development\BeginningCSharp\_04_03TheTernaryOperator\obj\Debug\_04_03TheTernaryOperator.pdb

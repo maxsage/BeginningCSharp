@@ -4,3 +4,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_0
 D:\DevelopmentTutorials\BookBeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.pdb
+C:\Development\BeginningCSharp\_12_01HandlingEvents\bin\Debug\_12_01HandlingEvents.exe
+C:\Development\BeginningCSharp\_12_01HandlingEvents\bin\Debug\_12_01HandlingEvents.pdb
+C:\Development\BeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.exe
+C:\Development\BeginningCSharp\_12_01HandlingEvents\obj\Debug\_12_01HandlingEvents.pdb

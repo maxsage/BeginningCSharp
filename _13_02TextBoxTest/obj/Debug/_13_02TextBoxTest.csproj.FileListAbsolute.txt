@@ -8,3 +8,13 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02Te
 D:\DevelopmentTutorials\BookBeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.pdb
 D:\DevelopmentTutorials\BookBeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.Form1.resources
+C:\Development\BeginningCSharp\_13_02TextBoxTest\bin\Debug\_13_02TextBoxTest.exe.config
+C:\Development\BeginningCSharp\_13_02TextBoxTest\bin\Debug\_13_02TextBoxTest.exe
+C:\Development\BeginningCSharp\_13_02TextBoxTest\bin\Debug\_13_02TextBoxTest.pdb
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.Form1.resources
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.Properties.Resources.resources
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.csproj.GenerateResource.cache
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.exe
+C:\Development\BeginningCSharp\_13_02TextBoxTest\obj\Debug\_13_02TextBoxTest.pdb

@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scra
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.pdb
+C:\Development\BeginningCSharp\_04_00Scratch01\bin\Debug\_04_00Scratch01.exe
+C:\Development\BeginningCSharp\_04_00Scratch01\bin\Debug\_04_00Scratch01.pdb
+C:\Development\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.exe
+C:\Development\BeginningCSharp\_04_00Scratch01\obj\Debug\_04_00Scratch01.pdb

@@ -1,0 +1,10 @@
+C:\Development\BeginningCSharp\ListBoxExample\bin\Debug\ListBoxExample.exe.config
+C:\Development\BeginningCSharp\ListBoxExample\bin\Debug\ListBoxExample.exe
+C:\Development\BeginningCSharp\ListBoxExample\bin\Debug\ListBoxExample.pdb
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\_13_05ListBoxExample.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\_13_05ListBoxExample.Form1.resources
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\ListBoxExample.Properties.Resources.resources
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\_13_05ListBoxExample.csproj.GenerateResource.cache
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\_13_05ListBoxExample.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\ListBoxExample.exe
+C:\Development\BeginningCSharp\ListBoxExample\obj\Debug\ListBoxExample.pdb

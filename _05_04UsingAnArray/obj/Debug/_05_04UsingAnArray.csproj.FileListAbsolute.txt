@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04U
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.pdb
+C:\Development\BeginningCSharp\_05_04UsingAnArray\bin\Debug\_05_04UsingAnArray.exe
+C:\Development\BeginningCSharp\_05_04UsingAnArray\bin\Debug\_05_04UsingAnArray.pdb
+C:\Development\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.exe
+C:\Development\BeginningCSharp\_05_04UsingAnArray\obj\Debug\_05_04UsingAnArray.pdb

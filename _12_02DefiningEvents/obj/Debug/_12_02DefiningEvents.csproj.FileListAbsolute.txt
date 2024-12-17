@@ -4,3 +4,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_0
 D:\DevelopmentTutorials\BookBeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.pdb
+C:\Development\BeginningCSharp\_12_02DefiningEvents\bin\Debug\_12_02DefiningEvents.exe
+C:\Development\BeginningCSharp\_12_02DefiningEvents\bin\Debug\_12_02DefiningEvents.pdb
+C:\Development\BeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.exe
+C:\Development\BeginningCSharp\_12_02DefiningEvents\obj\Debug\_12_02DefiningEvents.pdb

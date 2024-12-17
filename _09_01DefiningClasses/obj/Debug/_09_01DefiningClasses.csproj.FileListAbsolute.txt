@@ -11,3 +11,9 @@ D:\DevelopmentTutorials\BookBeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.csproj.CoreCompileInputs.cache
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.exe
 D:\DevelopmentTutorials\BookBeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.pdb
+C:\Development\BeginningCSharp\_09_01DefiningClasses\bin\Debug\_09_01DefiningClasses.exe
+C:\Development\BeginningCSharp\_09_01DefiningClasses\bin\Debug\_09_01DefiningClasses.pdb
+C:\Development\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.exe
+C:\Development\BeginningCSharp\_09_01DefiningClasses\obj\Debug\_09_01DefiningClasses.pdb
