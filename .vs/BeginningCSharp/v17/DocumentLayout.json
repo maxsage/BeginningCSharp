@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|solutionrelative:_13_06comboboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|c:\\development\\beginningcsharp\\_13_06comboboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|C:\\Development\\BeginningCSharp\\_13_06comboboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|solutionrelative:_13_06comboboxexample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|c:\\development\\beginningcsharp\\_13_06comboboxexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|C:\\Development\\BeginningCSharp\\_13_06comboboxexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|solutionrelative:_13_06comboboxexample\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|c:\\development\\beginningcsharp\\_13_06comboboxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|C:\\Development\\BeginningCSharp\\_13_06comboboxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF15A83-2F89-4EBB-87DF-CD6C34AE0C23}|_13_06ComboBoxExample\\_13_06ComboBoxExample.csproj|solutionrelative:_13_06comboboxexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,12 +36,8 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -56,6 +52,10 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
@@ -65,8 +65,7 @@
               "RelativeToolTip": "_13_06ComboBoxExample\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:25:22.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T21:25:22.873Z"
             },
             {
               "$type": "Document",
@@ -77,8 +76,7 @@
               "ToolTip": "C:\\Development\\BeginningCSharp\\_13_06ComboBoxExample\\Form1.cs [Design]",
               "RelativeToolTip": "_13_06ComboBoxExample\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:25:02.659Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-16T21:25:02.659Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "_13_06ComboBoxExample\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T21:24:18.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T21:24:18.662Z"
             }
           ]
         }
