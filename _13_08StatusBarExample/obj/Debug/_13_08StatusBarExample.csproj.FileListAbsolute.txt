@@ -1,0 +1,10 @@
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.csproj.AssemblyReference.cache
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.Properties.Resources.resources
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.csproj.GenerateResource.cache
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.csproj.CoreCompileInputs.cache
+C:\Development\BeginningCSharp\_13_08StatusBarExample\bin\Debug\_13_08StatusBarExample.exe.config
+C:\Development\BeginningCSharp\_13_08StatusBarExample\bin\Debug\_13_08StatusBarExample.exe
+C:\Development\BeginningCSharp\_13_08StatusBarExample\bin\Debug\_13_08StatusBarExample.pdb
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.exe
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.pdb
+C:\Development\BeginningCSharp\_13_08StatusBarExample\obj\Debug\_13_08StatusBarExample.frmListView.resources
